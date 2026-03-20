@@ -1,12 +1,9 @@
-<!-- - 👋 Hi, I’m @divyo-argha
-- 📫 [How to reach me ...](https://www.facebook.com/Divyo.Argha)
-
 
 <!---
 divyo-argha/divyo-argha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+
 <h1 align="center">Divyo Argha</h1>
 <p align="center">
   Software Engineer · Full-Stack Developer · Research Enthusiast
@@ -18,14 +15,6 @@ You can click the Preview link to take a look at your changes.
   <a href="#"><img src="https://img.shields.io/badge/Interest-AI%20%26%20Systems-grey?style=flat-square" /></a>
 </p>
 
----
-
-## 🧠 About Me
-
-I enjoy building systems that are not only functional but thoughtfully designed.  
-My interests lie at the intersection of software engineering, problem solving, and research-driven development.
-
-I like working across the stack — from crafting clean user interfaces to designing scalable backend systems — while constantly exploring new ideas in computing.
 
 ---
 
@@ -66,19 +55,10 @@ I like working across the stack — from crafting clean user interfaces to desig
 
 ---
 
-## 🔭 Current Focus
-
-- Building scalable full-stack applications  
-- Exploring system design & performance  
-- Diving deeper into research-driven development  
-
----
-
 ## 📫 Connect
 
 <p align="left">
-  <a href="#">LinkedIn</a> ·
-  <a href="#">Twitter</a> ·
-  <a href="#">Portfolio</a> ·
-  <a href="#">Email</a>
+  <a href="https://www.linkedin.com/in/argha-pratim-saha-a25b502b5/">LinkedIn</a> ·
+  <a href="https://www.facebook.com/divyo-argha">Facebook</a> ·
+  <a href="arghastm@gmail.com">Email</a>
 </p>
