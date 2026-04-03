@@ -36,13 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
----
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-contributions-animated.vercel.app/?username=github&theme=react-dark" alt="Global GitHub Activity" />
-</p>
 
 ---
 
