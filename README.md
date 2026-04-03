@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyo-argha&theme=github-compact&hide_border=true"/>
-</p>
+  <img src="https://github.pumbas.net/api/contributions/divyo-argha?dotColour=1F6FEB&colour=58A6FF&bgColour=transparent" />
+</p>   
 
 ---
 
