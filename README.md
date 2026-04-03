@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyo-argha&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyo-argha&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d" width="48%" />
-</p>   
+  <img src="https://github-contributions-animated.vercel.app/?username=github&theme=react-dark" alt="Global GitHub Activity" />
+</p>
+
 ---
 
 ## 📈 Activity Graph
